@@ -1,0 +1,5 @@
+/Users/alecbycow/Documents/Programming/Teach/C++/Listen35/First/build/CMakeFiles/First.dir
+/Users/alecbycow/Documents/Programming/Teach/C++/Listen35/First/build/CMakeFiles/edit_cache.dir
+/Users/alecbycow/Documents/Programming/Teach/C++/Listen35/First/build/CMakeFiles/rebuild_cache.dir
+/Users/alecbycow/Documents/Programming/Teach/C++/Listen35/First/build/CMakeFiles/First_autogen_timestamp_deps.dir
+/Users/alecbycow/Documents/Programming/Teach/C++/Listen35/First/build/CMakeFiles/First_autogen.dir
